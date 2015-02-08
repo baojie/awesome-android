@@ -5,7 +5,7 @@
 A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
 
 
-- [库项目](#库项目)
+- [库列表](#libraries)
     - [图标类](#charts)
     - [依赖注入类](#dependency-injection)
     - [游戏开发类](#game-development)
