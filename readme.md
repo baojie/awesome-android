@@ -1,3 +1,5 @@
+##### TODO : 汉化
+
 # Awesome Android
 
 A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
