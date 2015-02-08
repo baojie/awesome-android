@@ -67,31 +67,31 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AQuery](https://code.google.com/p/android-query/) - 轻量级安卓库，用来执行异步任务和操纵界面元素.
 - [Flow](https://github.com/square/flow) - 通过一系列相对独立的截屏来辅助描述App的功能库.
 - [Crouton](https://github.com/keyboardsurfer/Crouton) - 安卓上下文相关的通知控件
-- [DragSortListView](https://github.com/bauerca/drag-sort-listview) - 支持拖拽排序的安卓ListView扩展空间(不再维护).
+- [DragSortListView](https://github.com/bauerca/drag-sort-listview) - 支持拖拽排序的安卓ListView扩展控件(不再维护).
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - 为老版本安卓设计的ActionBar.
-- [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
+- [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Play Music App同款渐变效果action bar.
 
 #### Navigation
-- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
-- [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager.
-- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
+- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - 提供划入式菜单支持的项目库.
+- [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - 用在指示ViewPager页面之间导航的交互式标识器.
+- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - ViewPager水平滚动页面位置标识器.
 
 #### Animations
 - [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
-- [Rebound](https://github.com/facebook/rebound) - Rebound is a java library that models spring dynamics.
-- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
+- [Rebound](https://github.com/facebook/rebound) - 引入弹簧动态模型(spring dynamics model)的Java动画库.
+- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - 卡哇伊视图动画集合.
 
 #### Images
 
-- [android-crop](https://github.com/jdamcd/android-crop) - Library project for cropping images.
-- [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
+- [android-crop](https://github.com/jdamcd/android-crop) - 用于图片裁剪的项目库.
+- [CircularImageView](https://github.com/Pkmmte/CircularImageView) - 安卓高性能圆形图片视图.
 
 #### Inputs
 
-- [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - FloatingLabel Allows you to create a blow kind of EditText. *Doesn't have Gradle or Maven Support.*
-- [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
+- [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - 输入框悬浮提示项目库(Star 101). *不支持Gradle或者Maven.*
+- [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - 符合Material Design的UI控件库，支持浮动标签，底部省略号，字符数限制和自定义error color等
 
 #### Loading Images
 
