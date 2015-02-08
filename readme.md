@@ -49,28 +49,28 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Dependency Injection
 
-- [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
-- [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
-- [Butter Knife](http://jakewharton.github.io/butterknife) - View "injection" library for Android.
+- [RoboGuice](https://github.com/roboguice/roboguice) - 安卓依赖注入框架
+- [Dagger](https://github.com/square/Dagger) - Java和安卓依赖注入框架
+- [Butter Knife](http://jakewharton.github.io/butterknife) - Android视图(view)注入功能库.
 
 ### Game Development
 
-- [AndEngine](http://www.andengine.org/) - Free, Fun and Fast Android 2D OpenGL Game Engine.
-- [Vuforia](https://www.vuforia.com) - Augmented Reality library.
-- [Unity](http://unity3d.com/unity/multiplatform/mobile) - Cross-platform game creation system.
+- [AndEngine](http://www.andengine.org/) - 免费，快速又萌萌达的Android 2D OpenGL游戏引擎.
+- [Vuforia](https://www.vuforia.com) - 现实增强功能库.
+- [Unity](http://unity3d.com/unity/multiplatform/mobile) - 跨平台游戏创作系统.
 
 ### GUI
 
-- [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) - A swipe refresh layout is available in the v4 support library.
-- [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
-- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
-- [AQuery](https://code.google.com/p/android-query/) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
-- [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
-- [Crouton](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
-- [DragSortListView](https://github.com/bauerca/drag-sort-listview) - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
+- [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) -一个V4 support library支持的拉动刷新布局(layout)控件.
+- [Cardslib](https://github.com/gabrielemariotti/cardslib) - 用于构造UI卡片的安卓库.
+- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - 支持多列行可变的网格视图(View）控件，
+- [AQuery](https://code.google.com/p/android-query/) - 轻量级安卓库，用来执行异步任务和操纵界面元素.
+- [Flow](https://github.com/square/flow) - 通过一系列相对独立的截屏来辅助描述App的功能库.
+- [Crouton](https://github.com/keyboardsurfer/Crouton) - 安卓上下文相关的通知控件
+- [DragSortListView](https://github.com/bauerca/drag-sort-listview) - 支持拖拽排序的安卓ListView扩展空间(不再维护).
 
 #### ActionBar
-- [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
+- [ActionBarSherlock](http://actionbarsherlock.com) - 为老版本安卓设计的ActionBar.
 - [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
 
 #### Navigation
