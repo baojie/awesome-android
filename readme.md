@@ -95,63 +95,63 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 #### Loading Images
 
-- [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android.
-- [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Asynchronous, out of the box loading and caching of images.
+- [Picasso](https://github.com/square/picasso) - 强劲的图像下载和缓存安卓库(Star 4936).
+- [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - 异步开箱即用型图像载入和缓存库(Star 7395).
 
 ### JSON
 
-- [Gson](https://code.google.com/p/google-gson/) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
-- [Jackson JSON Processor](http://jackson.codehaus.org) - High-performance JSON processor.
+- [Gson](https://code.google.com/p/google-gson/) - 基于JSON的对象序列化和反序列化Java库.
+- [Jackson JSON Processor](http://jackson.codehaus.org) - 高性能JSON处理器.
 
 ### Crash monitoring
 
-- [Crashlytics](https://crashlytics.com) - Easy crash reporting solution.
-- [HockeyApp](http://hockeyapp.net) - Distribution, Crash Reports, Feedback and Analytics
+- [Crashlytics](https://crashlytics.com) - 简洁crash报告方案.
+- [HockeyApp](http://hockeyapp.net) - 提供分布，崩溃报告，反馈和分析方案
 
 ### Networking
 
-- [Ion](https://github.com/koush/ion) - Good networking library for android.
-- [OkHttp](https://github.com/square/okhttp) - An HTTP+SPDY client for Android and Java applications.
-- [Asynchronous Http Client](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
-- [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
-- [IceNet](https://github.com/anton19/IceNet) - Fast, Simple and Easy Networking for Android
-- [Android Volley](http://developer.android.com/training/volley/index.html) - Official Android HTTP library that makes networking for easier and faster.
+- [Ion](https://github.com/koush/ion) - 安卓异步网络和图像载入库(Star 2734).
+- [OkHttp](https://github.com/square/okhttp) - 安卓和Java的HTTP + SPDY客户端库(Star 3354).
+- [Asynchronous Http Client](https://github.com/loopj/android-async-http) - 异步HTTP项目库(Star 5370).
+- [RoboSpice](https://github.com/stephanenicolas/robospice) - 用于简化异步网络请求的安卓模块库(Star 2114).
+- [IceNet](https://github.com/anton19/IceNet) - 简单快速的安卓网络库(Star 33).
+- [Android Volley](http://developer.android.com/training/volley/index.html) - 官方发布的，简化网络操作的http库.
 
 ### Database
-- [Cupboard](https://bitbucket.org/qbusict/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
-- [DbInspector](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
-- [Realm](https://github.com/realm/realm-java) - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
+- [Cupboard](https://bitbucket.org/qbusict/cupboard) - 通过ContentProvider框架或者直接数据库访问来简化sqlite操作.
+- [DbInspector](https://github.com/infinum/android_dbinspector) - 为调试目的，提供的一种查看in-app数据库的简单方式(Star 307).
+- [Realm](https://github.com/realm/realm-java) - SQLite和ORMs之外的另一个选择, 简单，新颖快速！面向对象的API和多平台支持(Star 1227).
 
 #### ORM
 
-- [GreeDAO](http://greendao-orm.com) - Light & fast ORM solution.
-- [ormLight](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
-- [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
-- [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
+- [GreeDAO](http://greendao-orm.com) - 安卓SQLite对象数据映射解决方案.
+- [ormLight](http://ormlite.com/sqlite_java_android_orm.shtml) - 面向JDBC和安卓的轻量级对象关系映射库.
+- [ActiveAndroid](http://www.activeandroid.com) - 活动记录(Active record)风格的对象关系映射库.
+- [Sugar ORM](http://satyan.github.io/sugar/) - 为与安卓数据库交互提供一种轻松便捷的方式(Star 758).
 
 ### REST
 
-- [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface.
+- [Retrofit](http://square.github.io/retrofit/) - 将REST API转换成Java接口(Star 4242).
 
 ### Testing
 
-- [Robotium](https://code.google.com/p/robotium/) - Test automation framework for black-box UI tests.
-- [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
-- [AssertJ Android](https://github.com/square/assertj-android) - AssertJ assertions geared towards Android.
+- [Robotium](https://code.google.com/p/robotium/) - 为UI黑箱测试提供的自动化测试框架.
+- [Roboletric](http://robolectric.org/) - 提供一套单元测试框架， 将测试运行在工作站PC的JVM上，而不是模拟器上.
+- [AssertJ Android](https://github.com/square/assertj-android) - 提供与安卓匹配的aseertion框架(Star 791).
 
 ### Tracking
 
-- [MobileAppTracking](http://mobileapptracking.com/) - Tracking your marketing campaigns across multiple ad networks.
-- [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
+- [MobileAppTracking](http://mobileapptracking.com/) - 通过多路广告渠道网络，跟踪你的营销活动.
+- [Mixpanel](https://mixpanel.com/) - 用户分析平台.
 
 ### Utility
 
-- [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
-- [Otto](https://github.com/square/otto) - Event Bus for Android.
+- [EventBus](http://greenrobot.github.io/EventBus/) - 帮助简化Activities, Fragments, Threads, Services之间的通信（Star 3512).
+- [Otto](https://github.com/square/otto) - 为安卓定制的事件总线(Event Bus)(Star 2242).
 
 ### Wireless
 
-- [SmartGattLib](https://github.com/movisens/SmartGattLib) - Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).
+- [SmartGattLib](https://github.com/movisens/SmartGattLib) - 简化与蓝牙智能设备(比如蓝牙低功耗设备BLE)的通信(Star 64).
 
 ### Other
 
