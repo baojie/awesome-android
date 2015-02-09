@@ -158,7 +158,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android Support library](http://developer.android.com/tools/support-library/index.html) - 安卓支持库(Support Library)是一个核心库集合，提供安卓framework API反向兼容版本.
 - [Google Play Services](http://developer.android.com/google/play-services/index.html) - 提供Goolge服务的访问的库，例如帐户同步,Google+(共享,单点登录)，Google地图，位置API，Google Play游戏，云消息，Android的设备管理器，和其他.
 - [Tape](https://github.com/square/tape) - 为Java/安卓打造的一个轻量，快速，基于文件的FIFO，同时提供会话支持(Star 896).
-- [Android Annotation framework](https://github.com/excilys/androidannotations) - 使用Java注解(annotation), 开发者能够展示意图，并能够在编译期间使用AndroidAnnotations产生衔接代码(plumbing code)(Star 4468).
+- [Android Annotation framework](https://github.com/excilys/androidannotations) - 使用Java注解(annotation), 开发者能够展示意图, 并能够在编译期间使用AndroidAnnotations产生衔接代码(plumbing code)(Star 4468).
 - [Google Core Libraries](https://code.google.com/p/guava-libraries/) - 集合,缓存,原语支持,并发库,通用注解,字符串处理,I/O等等.
 - [Android Scripting](http://code.google.com/p/android-scripting/) - Android脚本语言支持.
 - [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) - 优先级工作队列库，可以用来简化后台作业调度，提高UX和App稳定性(Star 1288).
@@ -169,17 +169,17 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ## Resources
 
-- [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
-- [Android Design in Action Video series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) The video series by Android Design Team of Google.
-- [Android Design in Action slides] (https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md)- The application that gives you access to the slides of the video series.
-- [Android DevBytes Video Series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - It is the technical counterpart of Android Design in Action series.
-- [Android Hive Tutorials](http://www.androidhive.info) - Very good tutorials for beginners.
-- [Android Weekly](http://androidweekly.net) - Newsletter with weekly information about android.
-- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
-- [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
-- [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Wraps app screenshots in real device artwork.
-- [Android UI design resources] (http://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
-- [Pencil Project] (http://pencil.evolus.vn/) - An open source prototyping software.
+- [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - 来自Lars Vogel的高质量教程.
+- [Android Design in Action Video series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) Google安卓设计团队带来的Android Design in Action视频教程系列.
+- [Android Design in Action slides] (https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md)- Google的Android Design in Action系列教程的ppt.
+- [Android DevBytes Video Series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - 与Android Design in Action旗鼓相当的技术视频教程.
+- [Android Hive Tutorials](http://www.androidhive.info) - 高质量初学者教程.
+- [Android Weekly](http://androidweekly.net) - 安卓新闻周刊.
+- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - 图标和其他小固件产生器(Star 670).
+- [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/). ActionBar风格产生器(已经不推荐).
+- [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - 用App截屏制作设作品插图.
+- [Android UI design resources] (http://androiduiux.com/free-design-resources/) - 提供来自于UI/UX领域google专家的各种设计资源.
+- [Pencil Project] (http://pencil.evolus.vn/) - 开源原型设计软件.
 
 ### More lists of libraries
 - [The Android Arsenal](http://android-arsenal.com) - Large list of android libraries
