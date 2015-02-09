@@ -182,31 +182,31 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Pencil Project] (http://pencil.evolus.vn/) - 开源原型设计软件.
 
 ### More lists of libraries
-- [The Android Arsenal](http://android-arsenal.com) - Large list of android libraries
-- [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
-- [Square libraries](http://square.github.io/#android) - Multiple high quality libraries by square.
-- [Android.hew.io](http://android.hew.io) - Yet another list of android libraries.
+- [The Android Arsenal](http://android-arsenal.com) - 大量安卓项目库列表.
+- [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - 展示不同函数库的App.
+- [Square libraries](http://square.github.io/#android) - Square提供的多种高质量的功能库.
+- [Android.hew.io](http://android.hew.io) - 另外一个安卓库列表.
 
 ## Development Alternatives
 
-My personal recommendation is (for now) to use the android api to build a native app. Scala can help to build this native apps with cleaner code. But there are also use cases where alternatives like cross-platform development can be useful.
+目前来说，个人推荐采用安卓API来构建一个本机(native)应用程序. Scala能够以一种更简洁的代码方式来帮助构建这种本机应用. 但是也会有例外出现，在这些案例中，采用一些跨平台开发的替代方案可能会更有帮助.
 
 ### C&#35;
 
-- [Xamarin](http://xamarin.com) - Framework to create native iOS, Android, Mac and Windows apps in C#.
+- [Xamarin](http://xamarin.com) - 采用C#来创建iOS, 安卓和Window应用的框架.
 
 ### HTML, CSS and Javascript
 
-- [PhoneGap](http://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
-- [Titanium](http://www.appcelerator.com/titanium/) - Open-source framework to create 'native' cross platform apps using JavaScript.
+- [PhoneGap](http://phonegap.com) - Adobe开发的，采用HTML, CSS和JavaScript技术来构建跨平台移动App的开源框架.
+- [Titanium](http://www.appcelerator.com/titanium/) - 采用JavaScript来创建跨平台"本机“应用的开源框架.
 
 ### Lua
-- [Corona SDK](http://coronalabs.com/products/corona-sdk/) - Framework to create native iOS and Android Apps (especially Games).
+- [Corona SDK](http://coronalabs.com/products/corona-sdk/) - 创建本机(native)iSO和安卓应用的框架(特别是游戏应用).
 
 ### Scala
-- [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - Introduction to Scala on Android.
-- [Scaloid](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.
-- [Macroid](https://github.com/macroid/macroid) - A modular functional UI language for Android.
+- [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - 运行在Android上的Scala简介.
+- [Scaloid](https://github.com/pocorall/scaloid) - Scaloid使你的安卓代码跟容易理解和维护.
+- [Macroid](https://github.com/macroid/macroid) - 安卓模块化函数式UI语言.
 
 ### Groovy
 - [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
