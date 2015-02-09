@@ -204,21 +204,20 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Corona SDK](http://coronalabs.com/products/corona-sdk/) - 创建本机(native)iSO和安卓应用的框架(特别是游戏应用).
 
 ### Scala
-- [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - 运行在Android上的Scala简介.
-- [Scaloid](https://github.com/pocorall/scaloid) - Scaloid使你的安卓代码跟容易理解和维护.
-- [Macroid](https://github.com/macroid/macroid) - 安卓模块化函数式UI语言.
+- [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - 运行在安卓上的Scala介绍.
+- [Scaloid](https://github.com/pocorall/scaloid) - Scaloid使你的安卓代码跟容易理解和维护(Star 1343).
+- [Macroid](https://github.com/macroid/macroid) - 安卓模块化函数式UI语言(Star 172).
 
 ### Groovy
-- [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
-- [Groovy Language Support for Android](https://github.com/melix/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
-- [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
+- [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - 运行在安卓上的Groovy介绍.
+- [Groovy Language Support for Android](https://github.com/melix/groovy-android-gradle-plugin) - 用于为安卓平台编译Groovy的Gradle插件(Star 320).
+- [SwissKnife](https://github.com/Arasthel/SwissKnife) - 基于注解(Annotation)的安卓多用途函数库，包括视图注入和多线程(Star 136).
 
 ### Kotlin
-- [Koan](https://github.com/yanex/koan) - DSL for Android written in Kotlin.
+- [Koan](https://github.com/yanex/koan) - Kotlin编写的安卓领域特定语言(DSL)(Star 21).
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+可以在这里找他其他碉堡的项目列表[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) .
 
 ## Contributing
-
-Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+欢迎贡献你的力量!请先阅读[contribution guidelines](contributing.md)
