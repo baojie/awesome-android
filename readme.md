@@ -155,17 +155,17 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Other
 
-- [Android Support library](http://developer.android.com/tools/support-library/index.html) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
-- [Google Play Services](http://developer.android.com/google/play-services/index.html) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
-- [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
-- [Android Annotation framework](https://github.com/excilys/androidannotations) - Using Java annotations, developers can show their intent and let AndroidAnnotations generate the plumbing code at compile time.
-- [Google Core Libraries](https://code.google.com/p/guava-libraries/) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
-- [Android Scripting](http://code.google.com/p/android-scripting/) - Allows to run scripting languages on Android.
-- [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
-- [RateMeMaybe](https://github.com/Kopfgeldjaeger/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
-- [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - Lib provides a simple way to display an alert dialog for rating app.
-- [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
-- [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) - Java 8 Lambdas on Android!
+- [Android Support library](http://developer.android.com/tools/support-library/index.html) - 安卓支持库(Support Library)是一个核心库集合，提供安卓framework API反向兼容版本.
+- [Google Play Services](http://developer.android.com/google/play-services/index.html) - 提供Goolge服务的访问的库，例如帐户同步,Google+(共享,单点登录)，Google地图，位置API，Google Play游戏，云消息，Android的设备管理器，和其他.
+- [Tape](https://github.com/square/tape) - 为Java/安卓打造的一个轻量，快速，基于文件的FIFO，同时提供会话支持(Star 896).
+- [Android Annotation framework](https://github.com/excilys/androidannotations) - 使用Java注解(annotation), 开发者能够展示意图，并能够在编译期间使用AndroidAnnotations产生衔接代码(plumbing code)(Star 4468).
+- [Google Core Libraries](https://code.google.com/p/guava-libraries/) - 集合,缓存,原语支持,并发库,通用注解,字符串处理,I/O等等.
+- [Android Scripting](http://code.google.com/p/android-scripting/) - Android脚本语言支持.
+- [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) - 优先级工作队列库，可以用来简化后台作业调度，提高UX和App稳定性(Star 1288).
+- [RateMeMaybe](https://github.com/Kopfgeldjaeger/RateMeMaybe) - 提示用户是否愿意到PlayStore对App打分的功能库(star 57).
+- [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - 该函数库提供简便方式，向用户展现一个提示App打分的对话框(Star 22).
+- [ZXing Android-Integration](https://github.com/zxing/zxing) - 提供1维/2维条形码支持的函数库(Star 3958).
+- [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) - 安卓Java 8 Lambdas支持库(Star 668)
 
 ## Resources
 
