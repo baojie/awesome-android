@@ -2,96 +2,95 @@
 
 # Awesome Android
 
-A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
+一个超级棒的安卓资源库列表[libraries](#libraries) and [resources](#resources). 对于通用Java库，请参考 [awesome-java](https://github.com/akullpp/awesome-java).
 
 
-- [库列表](#Libraries)
-    - [图标类](#charts)
-    - [依赖注入类](#dependency-injection)
-    - [游戏开发类](#game-development)
-    - [图形界面类](#gui)
-        - [功能条ActionBar](#actionbar)
-        - [导航](#navigation)
-        - [动画](#animations)
-        - [图像](#images)
-        - [输入](#inputs)
-        - [图片载入](#loading-images)
+- [库列表(Libraries)](#libraries)
+    - [图标(Charts)](#charts)
+    - [依赖注入(Dependency Injection)](#dependency-injection)
+    - [游戏开发(Game Development)](#game-development)
+    - [图形界面(GUI)](#gui)
+        - [功能条(ActionBar)](#actionbar)
+        - [导航(Navigation)](#navigation)
+        - [动画(Animations)](#animations)
+        - [图像(Images)](#images)
+        - [输入(Inputs)](#inputs)
+        - [图片载入(Loading images)](#loading-images)
     - [JSON](#json)
-    - [Crash monitoring](#crash-monitoring)
-    - [网络](#networking)
-    - [数据库](#database)
+    - [宕机监控(Crash monitoring)](#crash-monitoring)
+    - [网络(Networking)](#networking)
+    - [数据库(Database)](#database)
         - [对象关系映射ORM](#orm)
     - [REST](#rest)
-    - [测试类](#testing)
-    - [Tracking](#tracking)
-    - [工具类](#utility)
-    - [无线类](#wireless)
-    - [其他类](#other)
-- [资源](#resources)
-    - [More lists of libraries](#more-lists-of-libraries)
-- [开发备选方案](#development-alternatives)
+    - [测试(Testing)](#testing)
+    - [追踪(Tracking)](#tracking)
+    - [工具(Utility)](#utility)
+    - [无线(Wireless)](#wireless)
+    - [其他(Other)](#other)
+- [资源(Resources)](#resources)
+    - [更多库列表](#more-lists-of-libraries)
+- [开发备选方案(Development Alternatives)](#development-alternatives)
     - [C#](#c)
     - [HTML, CSS and Javascript](#html-css-and-javascript)
     - [Lua](#Lua)
     - [Scala](#scala)
     - [Groovy](#Groovy)
     - [Kotlin](#Kotlin)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
+- [其他超棒库类表](#other-awesome-lists)
+- [投稿](#contributing)
 
 ## Libraries
 
 ### Charts
 
-- [AChartEngine](http://code.google.com/p/achartengine/) - Charting Engine.
-- [EazeGraph](https://github.com/blackfizz/EazeGraph) - Chart and graph library.
-- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Chart library with good motion capabilities.
+- [AChartEngine](http://code.google.com/p/achartengine/) - 图表引擎.
+- [EazeGraph](https://github.com/blackfizz/EazeGraph) - 图表图形库(Star 711).
+- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - 具有良好的动态特性的图表库(Star 608).
 
 ### Dependency Injection
 
-- [RoboGuice](https://github.com/roboguice/roboguice) - 安卓依赖注入框架
-- [Dagger](https://github.com/square/Dagger) - Java和安卓依赖注入框架
-- [Butter Knife](http://jakewharton.github.io/butterknife) - Android视图(view)注入功能库.
+- [RoboGuice](https://github.com/roboguice/roboguice) - 安卓依赖注入框架(Star 2699).
+- [Dagger](https://github.com/square/Dagger) - Java和安卓依赖注入框架(Star 2899).
+- [Butter Knife](http://jakewharton.github.io/butterknife) - Android视图(view)注入功能库(Star 2811).
 
 ### Game Development
 
-- [AndEngine](http://www.andengine.org/) - 免费，快速又萌萌达的Android 2D OpenGL游戏引擎.
+- [AndEngine](http://www.andengine.org/) - 免费, 快速, 萌萌达的Android 2D OpenGL游戏引擎.
 - [Vuforia](https://www.vuforia.com) - 现实增强功能库.
 - [Unity](http://unity3d.com/unity/multiplatform/mobile) - 跨平台游戏创作系统.
 
 ### GUI
 
 - [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html) -一个V4 support library支持的拉动刷新布局(layout)控件.
-- [Cardslib](https://github.com/gabrielemariotti/cardslib) - 用于构造UI卡片的安卓库.
-- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - 支持多列行可变的网格视图(View）控件，
+- [Cardslib](https://github.com/gabrielemariotti/cardslib) - 用于构造UI卡片的安卓库(Star 3016).
+- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - 支持多列行可变的网格视图(View）控件(Star 3051)
 - [AQuery](https://code.google.com/p/android-query/) - 轻量级安卓库，用来执行异步任务和操纵界面元素.
-- [Flow](https://github.com/square/flow) - 通过一系列相对独立的截屏来辅助描述App的功能库.
-- [Crouton](https://github.com/keyboardsurfer/Crouton) - 安卓上下文相关的通知控件
-- [DragSortListView](https://github.com/bauerca/drag-sort-listview) - 支持拖拽排序的安卓ListView扩展控件(不再维护).
+- [Flow](https://github.com/square/flow) - 通过一系列相对独立的截屏来辅助描述App的功能库(Star 675).
+- [Crouton](https://github.com/keyboardsurfer/Crouton) - 安卓上下文敏感的通知控件(Star 2260).
+- [DragSortListView](https://github.com/bauerca/drag-sort-listview) - 支持拖拽排序的安卓ListView扩展控件(不再维护)(Star 2052).
 
 #### ActionBar
-- [ActionBarSherlock](http://actionbarsherlock.com) - 为老版本安卓设计的ActionBar.
-- [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Play Music App同款渐变效果action bar.
+- [ActionBarSherlock](http://actionbarsherlock.com) - 兼容老版本安卓设计的ActionBar(不再维护)(Star 6625).
+- [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Play Music App同款渐变效果action bar(Star 1990).
 
 #### Navigation
-- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - 提供划入式菜单支持的项目库.
-- [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - 用在指示ViewPager页面之间导航的交互式标识器.
-- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - ViewPager水平滚动页面位置标识器.
+- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - 提供滑入式菜单支持的项目库(Star 7054).
+- [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - 用在指示ViewPager页面之间导航的交互式标识器(Star 2858).
+- [Page View indicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) - ViewPager水平滚动页面位置标识器(Star 4970).
 
 #### Animations
-- [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
-- [Rebound](https://github.com/facebook/rebound) - 引入弹簧动态模型(spring dynamics model)的Java动画库.
-- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - 卡哇伊视图动画集合.
+- [Rebound](https://github.com/facebook/rebound) - 引入弹簧动态模型(spring dynamics model)的Java动画库(Star 1631).
+- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - 漂亮的动画效果集合(Star 2180).
 
 #### Images
 
-- [android-crop](https://github.com/jdamcd/android-crop) - 用于图片裁剪的项目库.
-- [CircularImageView](https://github.com/Pkmmte/CircularImageView) - 安卓高性能圆形图片视图.
+- [android-crop](https://github.com/jdamcd/android-crop) - 用于图片裁剪的项目库(Star 910).
+- [CircularImageView](https://github.com/Pkmmte/CircularImageView) - 安卓高性能圆形图片视图(Star 660).
 
 #### Inputs
 
 - [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - 输入框悬浮提示项目库(Star 101). *不支持Gradle或者Maven.*
-- [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - 符合Material Design的UI控件库，支持浮动标签，底部省略号，字符数限制和自定义error color等
+- [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - 符合Material Design的UI控件库，支持浮动标签，底部省略号，字符数限制和自定义error color等(Star 839).
 
 #### Loading Images
 
@@ -119,7 +118,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Database
 - [Cupboard](https://bitbucket.org/qbusict/cupboard) - 通过ContentProvider框架或者直接数据库访问来简化sqlite操作.
-- [DbInspector](https://github.com/infinum/android_dbinspector) - 为调试目的，提供的一种查看in-app数据库的简单方式(Star 307).
+- [DbInspector](https://github.com/infinum/android_dbinspector) - 为调试目的，提供的一种简单的查看in-app数据库的方式(Star 307).
 - [Realm](https://github.com/realm/realm-java) - SQLite和ORMs之外的另一个选择, 简单，新颖快速！面向对象的API和多平台支持(Star 1227).
 
 #### ORM
@@ -127,7 +126,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [GreeDAO](http://greendao-orm.com) - 安卓SQLite对象数据映射解决方案.
 - [ormLight](http://ormlite.com/sqlite_java_android_orm.shtml) - 面向JDBC和安卓的轻量级对象关系映射库.
 - [ActiveAndroid](http://www.activeandroid.com) - 活动记录(Active record)风格的对象关系映射库.
-- [Sugar ORM](http://satyan.github.io/sugar/) - 为与安卓数据库交互提供一种轻松便捷的方式(Star 758).
+- [Sugar ORM](http://satyan.github.io/sugar/) - 提供一种轻松便捷的方式来与安卓数据库进行交互(Star 758).
 
 ### REST
 
@@ -156,13 +155,13 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Other
 
 - [Android Support library](http://developer.android.com/tools/support-library/index.html) - 安卓支持库(Support Library)是一个核心库集合，提供安卓framework API反向兼容版本.
-- [Google Play Services](http://developer.android.com/google/play-services/index.html) - 提供Goolge服务的访问的库，例如帐户同步,Google+(共享,单点登录)，Google地图，位置API，Google Play游戏，云消息，Android的设备管理器，和其他.
+- [Google Play Services](http://developer.android.com/google/play-services/index.html) - 提供Goolge服务的访问的库，例如帐户同步,Google+(共享,单点登录)，Google地图，位置API，Google Play游戏，云消息，Android的设备管理器等.
 - [Tape](https://github.com/square/tape) - 为Java/安卓打造的一个轻量，快速，基于文件的FIFO，同时提供会话支持(Star 896).
-- [Android Annotation framework](https://github.com/excilys/androidannotations) - 使用Java注解(annotation), 开发者能够展示意图, 并能够在编译期间使用AndroidAnnotations产生衔接代码(plumbing code)(Star 4468).
+- [Android Annotation framework](https://github.com/excilys/androidannotations) - 基于Java注解(annotation), 开发者能够给出定义, 并在编译期间使用AndroidAnnotations产生衔接代码(plumbing code)(Star 4468).
 - [Google Core Libraries](https://code.google.com/p/guava-libraries/) - 集合,缓存,原语支持,并发库,通用注解,字符串处理,I/O等等.
 - [Android Scripting](http://code.google.com/p/android-scripting/) - Android脚本语言支持.
 - [Android Priority Job Queue](https://github.com/path/android-priority-jobqueue) - 优先级工作队列库，可以用来简化后台作业调度，提高UX和App稳定性(Star 1288).
-- [RateMeMaybe](https://github.com/Kopfgeldjaeger/RateMeMaybe) - 提示用户是否愿意到PlayStore对App打分的功能库(star 57).
+- [RateMeMaybe](https://github.com/Kopfgeldjaeger/RateMeMaybe) - 提示用户是否愿意到PlayStore对App打分(star 57).
 - [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - 该函数库提供简便方式，向用户展现一个提示App打分的对话框(Star 22).
 - [ZXing Android-Integration](https://github.com/zxing/zxing) - 提供1维/2维条形码支持的函数库(Star 3958).
 - [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) - 安卓Java 8 Lambdas支持库(Star 668)
@@ -170,9 +169,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ## Resources
 
 - [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - 来自Lars Vogel的高质量教程.
-- [Android Design in Action Video series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) Google安卓设计团队带来的Android Design in Action视频教程系列.
-- [Android Design in Action slides] (https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md)- Google的Android Design in Action系列教程的ppt.
-- [Android DevBytes Video Series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - 与Android Design in Action旗鼓相当的技术视频教程.
+- [Android Design in Action Video series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) Google安卓设计团队带来的Android Design in Action系列视频教程.
+- [Android Design in Action slides] (https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md)- Google的Android Design in Action系列教程的PPT.
+- [Android DevBytes Video Series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - 与Android Design in Action旗鼓相当的系列技术视频教程.
 - [Android Hive Tutorials](http://www.androidhive.info) - 高质量初学者教程.
 - [Android Weekly](http://androidweekly.net) - 安卓新闻周刊.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - 图标和其他小固件产生器(Star 670).
