@@ -1,4 +1,3 @@
-##### TODO : 汉化
 
 # Awesome Android
 
@@ -6,7 +5,7 @@
 
 
 - [库列表(Libraries)](#libraries)
-    - [图标(Charts)](#charts)
+    - [图表(Charts)](#charts)
     - [依赖注入(Dependency Injection)](#dependency-injection)
     - [游戏开发(Game Development)](#game-development)
     - [图形界面(GUI)](#gui)
@@ -40,6 +39,8 @@
 - [投稿](#contributing)
 
 ## Libraries
+
+各种好用的库
 
 ### Charts
 
@@ -169,16 +170,16 @@
 ## Resources
 
 - [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - 来自Lars Vogel的高质量教程.
-- [Android Design in Action Video series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) Google安卓设计团队带来的Android Design in Action系列视频教程.
-- [Android Design in Action slides] (https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md)- Google的Android Design in Action系列教程的PPT.
-- [Android DevBytes Video Series] (https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - 与Android Design in Action旗鼓相当的系列技术视频教程.
+- [Android Design in Action Video series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) Google安卓设计团队带来的Android Design in Action系列视频教程.
+- [Android Design in Action slides](https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md)- Google的Android Design in Action系列教程的PPT.
+- [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - 与Android Design in Action旗鼓相当的系列技术视频教程.
 - [Android Hive Tutorials](http://www.androidhive.info) - 高质量初学者教程.
 - [Android Weekly](http://androidweekly.net) - 安卓新闻周刊.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - 图标和其他小固件产生器(Star 670).
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/). ActionBar风格产生器(已经不推荐).
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - 用App截屏制作设作品插图.
-- [Android UI design resources] (http://androiduiux.com/free-design-resources/) - 提供来自于UI/UX领域google专家的各种设计资源.
-- [Pencil Project] (http://pencil.evolus.vn/) - 开源原型设计软件.
+- [Android UI design resources](http://androiduiux.com/free-design-resources/) - 提供来自于UI/UX领域google专家的各种设计资源.
+- [Pencil Project](http://pencil.evolus.vn/) - 开源原型设计软件.
 
 ### More lists of libraries
 - [The Android Arsenal](http://android-arsenal.com) - 大量安卓项目库列表.
@@ -200,7 +201,7 @@
 - [Titanium](http://www.appcelerator.com/titanium/) - 采用JavaScript来创建跨平台"本机“应用的开源框架.
 
 ### Lua
-- [Corona SDK](http://coronalabs.com/products/corona-sdk/) - 创建本机(native)iSO和安卓应用的框架(特别是游戏应用).
+- [Corona SDK](http://coronalabs.com/products/corona-sdk/) - 创建本机(native)iOS和安卓应用的框架(特别是游戏应用).
 
 ### Scala
 - [Scala on Android](http://macroid.github.io/ScalaOnAndroid.html) - 运行在安卓上的Scala介绍.
@@ -216,7 +217,7 @@
 - [Koan](https://github.com/yanex/koan) - Kotlin编写的安卓领域特定语言(DSL)(Star 21).
 
 # Other Awesome Lists
-可以在这里找他其他碉堡的项目列表[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) .
+可以在这里找他其他吊爆的项目列表[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) .
 
 ## Contributing
 欢迎贡献你的力量!请先阅读[contribution guidelines](contributing.md)
